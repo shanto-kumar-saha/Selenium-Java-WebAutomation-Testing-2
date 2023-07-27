@@ -4,7 +4,7 @@
 
 
 <h2>📝 Description</h2> 
-This is a web automation project in Selenium and java. I will keep update it as the testcase</p>
+This is an amazon web automation project in Selenium and java. In these project, I used multiple methods and executed tests </p>
 
 <h2>📸 Project Screenshots</h2>
 
