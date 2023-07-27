@@ -8,7 +8,7 @@ This is an amazon web automation project in Selenium and java. In these project,
 
 <h2>📸 Project Screenshots</h2>
 
-<h3> Package Explorer- <h3>
+
 
 <h3> Program Class- <h3>
 
