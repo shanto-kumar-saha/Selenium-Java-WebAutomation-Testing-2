@@ -15,7 +15,7 @@ This is an amazon web automation project in Selenium and java. In these project,
 ![Program Class](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/f170a644-0584-477f-8a3a-4f3df54138b8)
 
 
-<h3> POM- <h3>
+<h3> POM File- <h3>
 
 ![POM File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/c2e9cad1-337e-4796-94be-b1e6a2461633)
 
