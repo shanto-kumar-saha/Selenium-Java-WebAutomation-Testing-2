@@ -4,7 +4,7 @@
 
 
 <h2>📝 Description</h2> 
-This is an amazon web automation project in Selenium and java. In these project, I have used multiple methods and executed various test. </p>
+This is an amazon web automation project in Selenium and java. In these project, I have used multiple methods and executed multiple test. </p>
 
 <h2>📸 Project Screenshots</h2>
 
