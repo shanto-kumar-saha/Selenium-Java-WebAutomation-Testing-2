@@ -12,26 +12,27 @@ This is an amazon web automation project in Selenium and java. In these project,
 
 <h3> Program Class- <h3>
 
-![Program Class](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/f170a644-0584-477f-8a3a-4f3df54138b8)
+![Program Class](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon1/assets/122052172/a42c249b-d4f4-498b-8d4b-33c21be9a7a5)
 
 
 <h3> POM- <h3>
 
-![POM File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/c2e9cad1-337e-4796-94be-b1e6a2461633)
+![POM File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon1/assets/122052172/2f7064df-62c4-4166-84e5-f19592bc7646)
+
 
 <h3> TestNG- <h3>
 
- ![TentNG File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/72842ff9-080d-46d9-b833-f20b06ea91d8)
+![TentNG File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon1/assets/122052172/e0b071f4-38db-4378-8311-b78bf6505332)
 
 
 <h3> Console- <h3>
 
- ![Console File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/8771c23f-ed78-41bb-8ce0-f8d9ae366d06)
+![Console File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon1/assets/122052172/ac7a7ba8-3560-44ff-83b3-6a5aea25582d)
 
 
 <h3> Results of runnig suite- <h3>
 
-![Result of running suite](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/69d6a212-8d03-433a-9ebf-eb56e2de916b)
+![Result of running suite](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon1/assets/122052172/ebb5861d-b1aa-47d6-82cc-ac819fff6182)
 
 
 <h2>🚀 Features</h2>
